@@ -1,0 +1,39 @@
+.Dictionary h3 {
+  font-size: 20px;
+  padding-top: 10px;
+  color: white;
+}
+.results h3 {
+  color: black;
+  font-weight: 600;
+}
+.Dictionary section {
+  background: rgba(224, 245, 201, 0.5);
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px rgba(177, 232, 146, 0.2);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Dictionary .button {
+  background-color: rgba(111, 146, 73);
+  margin: 10px;
+  border-style: double;
+  border-radius: 3px;
+  border-color: rgb(42, 78, 24);
+  width: 30%;
+  padding: 10px;
+}
+
+.Dictionary input {
+  width: 60%;
+  padding: 5px;
+}
+
+.Dictionary .phonetics {
+  font-size: 15px;
+  font-weight: 300;
+  font-style: italic;
+}
+.Dictionary .results {
+  color: black;
+}

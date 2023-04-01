@@ -1,3 +1,15 @@
 .App {
   text-align: center;
+  color: white;
+}
+body {
+  background-image: url("/src/pexels-luis-zheji-1662277.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+Header {
+  font-size: 25px;
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline double;
 }

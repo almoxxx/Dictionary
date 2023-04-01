@@ -1,0 +1,16 @@
+h2 {
+  font-weight: 900;
+  font-size: 24px;
+  color: black;
+}
+.definition {
+  font-size: 20px;
+  color: black;
+}
+
+.example {
+  font-size: 15px;
+  color: black;
+  opacity: 0.5;
+  font-style: italic;
+}
