@@ -1,25 +1,27 @@
 .Dictionary h3 {
   font-size: 20px;
   padding-top: 10px;
-  color: white;
+  color: black;
 }
 .results h3 {
   color: black;
   font-weight: 600;
 }
 .Dictionary section {
-  background: rgba(224, 245, 201, 0.5);
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 10px;
   margin: 20px;
   box-shadow: 10px 10px 20px rgba(177, 232, 146, 0.2);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .Dictionary .button {
-  background-color: rgba(111, 146, 73);
+  background-color: black;
+  color: white;
   margin: 10px;
   border-style: double;
-  border-radius: 3px;
-  border-color: rgb(42, 78, 24);
+  border-width: 3px;
+  border-radius: 5px;
+  border-color: white;
   width: 30%;
   padding: 10px;
 }
