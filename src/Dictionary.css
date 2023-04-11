@@ -25,6 +25,11 @@
   width: 30%;
   padding: 10px;
 }
+@media (max-width: 960px) {
+  .Dictionary .button {
+    font-size: 8px;
+  }
+}
 
 .Dictionary input {
   width: 60%;
